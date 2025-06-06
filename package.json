@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.2.0",
   "type": "module",
-  "homepage": "https://avi-ss.github.io/Skull-King-Tracker/",
+  "homepage": "https://minding000.github.io/skull-king-tracker/",
   "scripts": {
     "dev": "vite --mode development",
     "build": "vite build --mode development",

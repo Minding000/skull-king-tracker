@@ -24,7 +24,7 @@ Ya seas un jugador casual o un entusiasta del Skull King, esta herramienta es pe
 
 ## Enlaces Rápidos 🚀
 
-- **Demo en Vivo:** [Skull King Tracker en GitHub Pages](https://avi-ss.github.io/Skull-King-Tracker/)
+- **Demo en Vivo:** [Skull King Tracker en GitHub Pages](https://minding000.github.io/skull-king-tracker/)
 - **Descarga la App:** [Google Play Store](https://play.google.com/store/apps/details?id=es.aviss.skullkingtracker&pcampaignid=web_share)
 
 ## Instalación y Desarrollo 🛠️
